@@ -1,0 +1,16 @@
+1508245923581	Rename package 'simpleFactory'
+1508245945905	Rename package 'lt.a'
+1508245950240	Delete element
+1508245954617	Delete element
+1508245958805	Delete element
+1508246849937	Extract local variable 'parseInt'
+1508247327741	Extract local variable 'result'
+1508247664816	Rename package 'lt.b.celv'
+1508247777222	Rename type 'CahsSuper'
+1508248584572	Extract local variable 'acceptCash'
+1508248638003	Extract local variable 'acceptCash'
+1508287371984	Rename package 'lt.d.factoryMethod'
+1508288530767	Copy compilation unit
+1508462010275	Extract local variable 'array'
+1508462193108	Extract local variable 'iterator'
+1508464974268	Extract local variable 'asList'

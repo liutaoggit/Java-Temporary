@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;field&apos; from expression &apos;class1.getField(&quot;&quot;)&apos;&#x0A;- Original project: &apos;interview&apos;&#x0A;- Variable name: &apos;field&apos;&#x0A;- Destination method: &apos;lt.l.threadlocal.Demo1.main()&apos;&#x0A;- Variable expression: &apos;class1.getField(&quot;&quot;)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;field&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;lt.l.threadlocal{Demo1.java" name="field" replace="true" selection="266 0" stamp="1509532308049" version="1.0"/>
+</session>

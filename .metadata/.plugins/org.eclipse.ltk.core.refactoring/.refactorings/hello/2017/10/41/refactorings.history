@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;fruit&apos; from expression &apos;p.get()&apos;&#x0A;- Original project: &apos;hello&apos;&#x0A;- Variable name: &apos;fruit&apos;&#x0A;- Destination method: &apos;hello.WildCard.fun4()&apos;&#x0A;- Variable expression: &apos;p.get()&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;fruit&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;hello{WildCard.java" name="fruit" replace="true" selection="821 0" stamp="1507617004808" version="1.0"/>
+</session>
